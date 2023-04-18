@@ -13,6 +13,7 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=gin614pham&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gin614pham&label=Profile%20Views&color=1&icon=8&pretty=true)](https://visitcount.itsvg.in)
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=gin614pham&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
 
