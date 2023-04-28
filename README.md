@@ -1,3 +1,7 @@
+<p align="center">
+  <a href=#><img src="banner.jpg" alt="Banner"></a>
+</p>
+
 
 ## 🌐Contact me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gin.614) 
