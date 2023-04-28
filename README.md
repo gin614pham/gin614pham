@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="hello.svg" alt="Konnichiha" />
+</h1>
+
 <p align="center">
   <a href=#><img src="banner.jpg" alt="Banner"></a>
 </p>
